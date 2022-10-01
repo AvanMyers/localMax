@@ -1,0 +1,8 @@
+C:\Users\Xiaomi\source\repos\localMax\localMax\bin\Debug\localMax.exe.config
+C:\Users\Xiaomi\source\repos\localMax\localMax\bin\Debug\localMax.exe
+C:\Users\Xiaomi\source\repos\localMax\localMax\bin\Debug\localMax.pdb
+C:\Users\Xiaomi\source\repos\localMax\localMax\obj\Debug\localMax.csproj.AssemblyReference.cache
+C:\Users\Xiaomi\source\repos\localMax\localMax\obj\Debug\localMax.csproj.SuggestedBindingRedirects.cache
+C:\Users\Xiaomi\source\repos\localMax\localMax\obj\Debug\localMax.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\source\repos\localMax\localMax\obj\Debug\localMax.exe
+C:\Users\Xiaomi\source\repos\localMax\localMax\obj\Debug\localMax.pdb
